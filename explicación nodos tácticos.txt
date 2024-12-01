@@ -1,0 +1,8 @@
+Solo afectan al ladrón y al bailador, ya que el limpiador va a querer pasar por
+cualquier zona sin preferencias.
+
+Los nodos rojos son cámaras, por tanto el ladrón y el bailador quieren evitarlos
+a toda costa (el bailador por tener energía robada por el ladrón).
+
+Los nodos verdes son zonas frías por las cuales el ladrón y el bailador van a
+querer pasar para enfriar sus circuitos.
